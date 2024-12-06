@@ -9,8 +9,6 @@ python3 render.py
 ```
 ## My Additions to the Engine
 
-I have tried to make my code easily readable without documentation so keep my explanations quite brief here.
-
 ### Vector.py
 A pretty standard vector class that is able to handle homogeneous coordinates.
 
